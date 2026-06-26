@@ -1,3 +1,4 @@
+//instead of creating object directly, we will use factory method to create object
 interface Document {
     void createDocument();
 }
