@@ -1,3 +1,4 @@
+//strategy pattern is behaviour design pattern that provides strategy to select one algorithm from multiple algorithms at run time .
 interface PaymentStrategy {
     void pay();
 }

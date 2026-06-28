@@ -1,3 +1,4 @@
+//proxy pattern provides proxy to control the access to real bject by lazy initilization and caching.
 interface image {
     public void display();
 }

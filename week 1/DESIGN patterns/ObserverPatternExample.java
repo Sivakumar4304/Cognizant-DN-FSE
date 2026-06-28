@@ -1,3 +1,6 @@
+
+//observer pattern states where one object change it notifies all other muttiple objects
+
 import java.util.ArrayList;
 
 interface Stock {

@@ -1,3 +1,4 @@
+//command pattern converts request into a object , so that request can be executed later.
 interface Command {
     public void execute();
 }
