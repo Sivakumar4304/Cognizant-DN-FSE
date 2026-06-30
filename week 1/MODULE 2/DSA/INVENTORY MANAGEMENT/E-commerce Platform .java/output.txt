@@ -1,0 +1,11 @@
+----- Linear Search -----
+product id :105
+product name :Webcam
+Category :Input
+
+----- Binary Search -----
+product id :105
+product name :Webcam
+Category :Input
+Product Not found
+Product Not Found 

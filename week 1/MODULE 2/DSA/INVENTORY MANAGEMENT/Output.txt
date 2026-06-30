@@ -1,0 +1,60 @@
+Product added
+
+Product added
+
+Product added
+
+
+Inventory :
+Displaying details :
+
+Product ID :101
+product Name :Laptop
+quantity :100
+price : 65000.5
+
+Product ID :102
+product Name :KeyBoard
+quantity :150
+price : 1420.8
+
+Product ID :103
+product Name :Mouse
+quantity :66
+price : 150.5
+
+Updated succesfully 
+
+Updated successfully
+
+Inventory :
+Displaying details :
+
+Product ID :101
+product Name :Laptop
+quantity :100
+price : 65000.5
+
+Product ID :102
+product Name :KeyBoard
+quantity :150
+price : 1420.8
+
+Product ID :103
+product Name :Wireless Mouse
+quantity :66
+price : 150.5
+
+product removed sucessfully 
+
+Displaying details :
+
+Product ID :101
+product Name :Laptop
+quantity :100
+price : 65000.5
+
+Product ID :103
+product Name :Wireless Mouse
+quantity :66
+price : 150.5
