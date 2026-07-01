@@ -15,7 +15,7 @@ public class Main {
         System.out.println("\nInventory :");
         inventory.display();
 
-        inventory.updateproduct(103, "Wireless Mouse", 66, 150.50);
+        inventory.updateproduct(103, "Wireless Mouse", 60, 150.50);
         System.out.println("Updated successfully");
         System.out.println("\nInventory :");
         inventory.display();

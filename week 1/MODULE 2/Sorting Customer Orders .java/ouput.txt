@@ -1,0 +1,57 @@
+After Bubble Sort : 
+Customer Name : Arjun
+order Id : 106
+total Price : 900
+
+Customer Name : Priya
+order Id : 102
+total Price : 1200
+
+Customer Name : Kiran
+order Id : 104
+total Price : 1800
+
+Customer Name : Rahul
+order Id : 101
+total Price : 2500
+
+Customer Name : Neha
+order Id : 105
+total Price : 2900
+
+Customer Name : Anjali
+order Id : 103
+total Price : 3400
+
+Customer Name : Sneha
+order Id : 107
+total Price : 4100
+
+After Quick Sort : 
+Customer Name : Arjun
+order Id : 106
+total Price : 900
+
+Customer Name : Priya
+order Id : 102
+total Price : 1200
+
+Customer Name : Kiran
+order Id : 104
+total Price : 1800
+
+Customer Name : Rahul
+order Id : 101
+total Price : 2500
+
+Customer Name : Neha
+order Id : 105
+total Price : 2900
+
+Customer Name : Anjali
+order Id : 103
+total Price : 3400
+
+Customer Name : Sneha
+order Id : 107
+total Price : 4100

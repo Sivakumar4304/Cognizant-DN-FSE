@@ -16,7 +16,6 @@ public class Inventory {
 
         if (products.containsKey(productId)) {
             Product p = products.get(productId);
-            p.productId = productId;
             p.productName = productName;
             p.quantity = quantity;
             p.price = price;

@@ -1,5 +1,4 @@
 public class Search {
-    // int[] array;
 
     void linearSearch(Product products[], int productId) {
         boolean found = false;
