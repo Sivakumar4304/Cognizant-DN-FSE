@@ -1,0 +1,11 @@
+Using Linear Search:
+Book Found:
+Book Id : 123
+Title : Java
+Author : James Gosling
+
+Using Binary Search:
+Book Found:
+Book Id : 123
+Title : Java
+Author : James Gosling

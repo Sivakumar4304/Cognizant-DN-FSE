@@ -1,0 +1,14 @@
+Present Value : 10000.0
+Growth Rate : 10.0%
+Years : 5
+Future Value : 16105.10
+
+Present Value : 5000.0
+Growth Rate : 8.0%
+Years : 3
+Future Value : 6298.56
+
+Present Value : 20000.0
+Growth Rate : 5.0%
+Years : 2
+Future Value : 22050.00

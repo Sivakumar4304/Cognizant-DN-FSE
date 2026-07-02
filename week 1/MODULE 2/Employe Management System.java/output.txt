@@ -1,0 +1,56 @@
+
+Employee added successfully
+Employee added successfully
+Employee added successfully
+Employee added successfully
+Employee added successfully
+
+All Employees:
+Employee Id : 1
+Employee Name : Abhishek
+Position : JR Software Engineer
+Salary : 45000.6
+Employee Id : 2
+Employee Name : Rohit
+Position : SR Software Engineer
+Salary : 75632.33
+Employee Id : 3
+Employee Name : Mahesh
+Position : HR
+Salary : 4247.5
+Employee Id : 4
+Employee Name : Ramesh
+Position : Manager
+Salary : 100000.0
+Employee Id : 5
+Employee Name : Suresh
+Position : Director
+Salary : 15145.3
+
+Searching Employee:
+Employee Id : 3
+Employee Name : Mahesh
+Position : HR
+Salary : 4247.5
+
+Deleting Employee:
+Employee deleted successfully
+
+Employees After Deletion:
+Employee Id : 1
+Employee Name : Abhishek
+Position : JR Software Engineer
+Salary : 45000.6
+Employee Id : 2
+Employee Name : Rohit
+Position : SR Software Engineer
+Salary : 75632.33
+Employee Id : 4
+Employee Name : Ramesh
+Position : Manager
+Salary : 100000.0
+Employee Id : 5
+Employee Name : Suresh
+Position : Director
+Salary : 15145.3
+
