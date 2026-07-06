@@ -9,7 +9,8 @@ public class Main {
         Book[] book = { b1, b2, b3, b4, b5 };
         Search s = new Search();
         System.out.println("\nUsing Linear Search:");
-        s.linearSearch(book, "Java");
+        // s.linearSearch(book, "Java");
+        s.linearSearch(book, "Python");
         System.out.println("\nUsing Binary Search:");
         s.binarySearch(book, "Java");
 
