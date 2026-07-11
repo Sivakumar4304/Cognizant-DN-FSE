@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9df02200-2b12-4c49-942c-0357e500d729" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/JAVA FSE.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 2/ECOMMERCE PLATFORM.JAVA/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 2/ECOMMERCE PLATFORM.JAVA/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 2/ECOMMERCE PLATFORM.JAVA/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 2/ECOMMERCE PLATFORM.JAVA/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 2/ECOMMERCE PLATFORM.JAVA/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 2/ECOMMERCE PLATFORM.JAVA/Search.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 2/ECOMMERCE PLATFORM.JAVA/Search.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 2/ECOMMERCE PLATFORM.JAVA/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 2/Employe Management System.java/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 2/Employe Management System.java/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 2/Employe Management System.java/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 2/Employe Management System.java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 2/Employe Management System.java/Methods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 2/Employe Management System.java/Methods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 2/Employe Management System.java/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 2/Employe Management System.java/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 2/Financial Forecasting .java/FutureValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 2/Financial Forecasting .java/FutureValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 2/Financial Forecasting .java/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 2/Financial Forecasting .java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 2/Financial Forecasting .java/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 2/Financial Forecasting .java/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 2/InvertoryManagement.java/Inventory management.java/Inventory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 2/InvertoryManagement.java/Inventory management.java/Inventory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 2/InvertoryManagement.java/Inventory management.java/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 2/InvertoryManagement.java/Inventory management.java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 2/InvertoryManagement.java/Inventory management.java/Output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 2/InvertoryManagement.java/Inventory management.java/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 2/InvertoryManagement.java/Inventory management.java/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 2/InvertoryManagement.java/Inventory management.java/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 2/InvertoryManagement.java/InvertoryManagement.java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 2/Library Management System .java/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 2/Library Management System .java/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 2/Library Management System .java/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 2/Library Management System .java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 2/Library Management System .java/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 2/Library Management System .java/Search.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 2/Library Management System .java/Search.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 2/Library Management System .java/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 2/MODULE 2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 2/Sorting Customer Orders .java/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 2/Sorting Customer Orders .java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 2/Sorting Customer Orders .java/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 2/Sorting Customer Orders .java/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 2/Sorting Customer Orders .java/README.MD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 2/Sorting Customer Orders .java/Sorting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 2/Sorting Customer Orders .java/Sorting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 2/Sorting Customer Orders .java/ouput.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 3/Control Structures/Scenario1.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 3/Control Structures/Scenario2.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 3/Control Structures/Scenario3.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 3/Stored Procedures/Scenario1.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 3/Stored Procedures/Scenario2.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 3/Stored Procedures/Scenario3.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 4/.idea/MODULE 4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 4/JUNIT Basic Testing/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 4/JUNIT Basic Testing/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 4/JUNIT Basic Testing/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 4/JUNIT Basic Testing/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 4/JUNIT Basic Testing/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 4/JUNIT Basic Testing/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 4/JUNIT Basic Testing/src/main/java/org/example/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 4/JUNIT Basic Testing/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 4/JUNIT Basic Testing/src/test/java/org/example/AssertionsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 4/JUNIT Basic Testing/src/test/java/org/example/CalculatorAAATest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 4/Logging using SLF4J/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 4/Logging using SLF4J/.idea/Logging using SLF4J.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 4/Logging using SLF4J/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 4/Logging using SLF4J/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 4/Logging using SLF4J/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 4/Logging using SLF4J/loggerExample/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 4/Logging using SLF4J/loggerExample/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 4/Logging using SLF4J/loggerExample/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 4/Logging using SLF4J/loggerExample/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 4/Logging using SLF4J/loggerExample/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 4/Logging using SLF4J/loggerExample/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 4/Logging using SLF4J/loggerExample/src/main/java/org/example/LoggingExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 4/Logging using SLF4J/loggerExample/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 4/Logging using SLF4J/loggerExample/src/main/java/org/example/ParameterizedLogging.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 4/MOCKITO/MOCKITO/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 4/MOCKITO/MOCKITO/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 4/MOCKITO/MOCKITO/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 4/MOCKITO/MOCKITO/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 4/MOCKITO/MOCKITO/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 4/MOCKITO/MOCKITO/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 4/MOCKITO/MOCKITO/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 4/MOCKITO/MOCKITO/src/main/java/org/example/ExternalApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 4/MOCKITO/MOCKITO/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 4/MOCKITO/MOCKITO/src/main/java/org/example/MyService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week 1/MODULE 4/MOCKITO/MOCKITO/src/test/java/org/example/MyServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 5/LibraryManagement/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 5/LibraryManagement/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 5/LibraryManagement/src/main/java/com/library/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 5/LibraryManagement/src/main/java/com/library/aspect/LoggingAspect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 5/LibraryManagement/src/main/java/com/library/repository/BookRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 5/LibraryManagement/src/main/java/com/library/service/BookService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 5/LibraryManagement/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 5/LibraryManagement/src/main/resources/applicationContext.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3GFrY3ig47AXNivZIIQxLSWynmX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/JAVA FSE/week 2/Module 6/Spring Data JPA with Spring Boot, Hibernate"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.26222.65" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.26222.65" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9df02200-2b12-4c49-942c-0357e500d729" name="Changes" comment="" />
+      <created>1783578203748</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1783578203748</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
